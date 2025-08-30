@@ -43,7 +43,6 @@
   "languages": [
     "Português BR",
     "Inglês (Basico)"
-    
   ],
   "portfolio": [
     {
@@ -55,13 +54,12 @@
       "name": "Projeto Yu-Gi-Oh",
       "url": "https://github.com/RicardoConesa/Yu-Gi-Oh--Pedra-Papel-Tesoura",
       "github": true
-    }
+    },
     {
       "name": "Projeto Portifolio",
       "url": "https://github.com/RicardoConesa/Portifolio-BootCampSantander2025",
       "github": true
     }
-
   ],
   "professionalExperience": [
     {
@@ -69,6 +67,5 @@
       "period": "2016 a 2017",
       "description": "Curso Técnico de informatica"
     }
-   
   ]
 }
